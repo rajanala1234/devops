@@ -1,0 +1,8 @@
+#!/bin/bash
+echo "Present enter day (e.g wed)"
+read day
+echo "Present enter month (e.g Jan)"
+read month
+echo "Present enter date (e.g 20)"
+read date
+last | grep "$day $month $date"
