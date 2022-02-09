@@ -444,3 +444,213 @@ vi tree.txt
 cat tree.txt
 cat tree.txt | git mktree
 exit
+git status
+git branch status
+git master status
+clear
+git branch
+git checkout branch1
+git checkout branch
+git status
+git checkout branch1
+git checkout branch
+git checkout master
+clear
+apt-get install update
+git checkout master
+git checkout branch1
+git remote update
+git fetch
+git checkout branch1
+git checkout -b branch1
+git branch status
+git branch
+git -b  branch
+git master
+git branch -a
+git branch
+pwd
+git branch -r
+git master
+git master status
+ls -l
+touch f4 f5 f6
+git add
+git add .
+git commit -m "BRANCH1 COMMIT" .
+git push -u orgin branch1
+git push -u origin branch1
+clear
+git log
+git branch
+git push -u origin branch1
+git branch
+git branch pavan
+git branch
+git checkout pavan
+git branch
+git log --oneline
+git branch
+git branch pavan
+git branch branch1
+git branch
+git branch -D pavan
+git branch -D branch1
+git branch
+touch c1 c2 c3
+ls 
+git branch
+git add pavan
+git add .
+git commit -m "pavan commit" .
+git push -u origin pavan
+git remote add origin https://github.com/rajanala1234/devops.git
+git push -u origin pavan
+git branch
+git checkout -b pavan
+git checkout pavan
+git branch
+git branch pavan
+git checkout pavan
+git checkout -b rajanala
+git branch
+git checkout -d pavan
+git branch
+git branch rajanala
+git checkout rajanala
+git branch
+git checkout -D pavan
+git brac
+git brach
+git branch
+git branch -D pavan
+git branch
+git branch rajanala
+git checkout pavan
+git branch
+git branch -D pavan
+git checkout rajanala
+git branch
+git branch -d pavan
+git branch
+git branch -d rajanala
+git checkout rajanala
+git branch -d rajanala
+git fetch -all
+git fetch
+git checkout remote
+git branch
+git checkout rajanala
+touch r1 r2 r3
+ls
+git add .
+git commit -m "ranala files" .
+git push -u origin rajanala
+git branch
+git branch pavan
+git branch
+git branch -d pavan
+git branch
+git branch pavan
+git branch
+git checkout pavan
+git branch 
+git checkout rajanala
+git branch 
+git checkout rajanala
+git branch
+git checkout pavan
+git branch
+git branch raj
+git branch
+git checkout raj
+git branch
+touch r1 r2 r3
+git add .
+git commit -m "raj files" .
+ls
+git commit -m "raj files" .
+git status
+git add .
+git commit -m "raj files" .
+git branch
+cd raj
+l
+cd
+ls -ltr
+l
+git branch
+git commit -m "version1"
+git branch -d pavan
+git branch
+git commit -m "raj files" .
+git log
+c
+clear
+git checkout
+git branch
+git branch raj
+git branch
+touch ff
+git add .
+git push -f origin ff
+clear
+git branch
+git branch siva
+git branch
+git checkout siva
+git branch
+touch gg
+git add .
+git commit -m "gg file" .
+git push -u origin siva
+clear
+git branch 
+git branch chiru
+git checkout chiru
+git branch
+touch 1 2 3
+git add 1
+git commit -m "chiru files" 1
+git commit -m "chiru files" 
+git commit -m "chiru files" .
+git clear
+git add 
+git add .
+git commit -m "chiru files" .
+git push -u origin chiru
+l
+git brance
+git branch
+ll
+git branch
+git branch siva
+git checkout siva
+git branch
+ll
+ls -ltr siva
+ls -ltr
+clear
+git checkout master
+l
+ll
+l
+git branch
+git checkout chiru
+l
+l -l
+l -ltr
+l -lt
+git branch
+git branch -m rajanala raja1
+git branch
+clear
+git branch
+ls
+ls -l
+ls 
+ll
+exit
+git branch
+ll
+clear
